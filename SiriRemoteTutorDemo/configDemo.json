@@ -1,0 +1,42 @@
+
+{
+	"siri_remote_tutor" : {
+		"x"         : 384.0,
+		"y"         : 540.0,
+		"width"		: 130.0,
+		"height"	: 380.0,
+	},
+
+	"demo_speed" : 0.5,
+	
+	"demo_action" : [
+			   { "action" : "siri_remote", "command" : "show"},
+			   { "action" : "nothing"},
+			   { "action" : "nothing"},
+			   { "action" : "siri_remote", "command" : "click"},
+			   { "action" : "nothing"},
+			   { "action" : "nothing"},
+			   { "action" : "siri_remote", "command" : "swipe_right"},
+			   { "action" : "nothing"},
+			   { "action" : "nothing"},
+			   { "action" : "siri_remote", "command" : "swipe_left"},
+			   { "action" : "nothing"},
+			   { "action" : "nothing"},
+			   { "action" : "siri_remote", "command" : "swipe_up"},
+			   { "action" : "nothing"},
+			   { "action" : "nothing"},
+			   { "action" : "siri_remote", "command" : "swipe_down"},
+			   { "action" : "nothing"},
+			   { "action" : "nothing"},
+			   { "action" : "siri_remote", "command" : "click"},
+			   { "action" : "nothing"},
+			   { "action" : "nothing"},
+			   { "action" : "siri_remote", "command" : "hide"},
+			   { "action" : "nothing"},
+			   { "action" : "nothing"},
+			   { "action" : "nothing"},
+			   { "action" : "nothing"},
+			   { "action" : "repeat"},
+			   ],
+}
+
