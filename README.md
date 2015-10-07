@@ -27,4 +27,4 @@ Step 3: Call function to animate
 	
 Step 4 : Enjoy !
 
-See "ViewController.swift" for detail.
+See <a href="https://github.com/AlohaYos/SiriRemoteTutorDemo/blob/master/SiriRemoteTutorDemo/ViewController.swift" target=_blank>SiriRemoteTutorDemo</a>ViewController.swift</a> for detail.
