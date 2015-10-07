@@ -5,7 +5,7 @@ Provide simple animation tutor of Siri remote for tvOS apps (Apple TV).
 
 <img src="https://github.com/AlohaYos/SiriRemoteTutorDemo/blob/master/SiriRemoteTutorDemo.gif"  />
 
-<strong>How to use</strong>
+#How to use
 
 Step 1 : Make property for SiriRemoteTutor class
 
@@ -15,7 +15,7 @@ Step 2 : Initialize the class with position, size and SKScene where SiriRemoteTu
 
     remoteTutor = SiriRemoteTutor.init(rect: CGRectMake(x, y, w, h), scene: demoScene)
 
-Step 3: Call function to animate
+Step 3 : Call function to animate
 
     remoteTutor?.show()
 	remoteTutor?.hide()
@@ -27,4 +27,4 @@ Step 3: Call function to animate
 	
 Step 4 : Enjoy !
 
-See <a href="https://github.com/AlohaYos/SiriRemoteTutorDemo/blob/master/SiriRemoteTutorDemo/ViewController.swift" target=_blank>SiriRemoteTutorDemo</a>ViewController.swift</a> for detail.
+See <a href="https://github.com/AlohaYos/SiriRemoteTutorDemo/blob/master/SiriRemoteTutorDemo/ViewController.swift" target=_blank>ViewController.swift</a> for detail.
