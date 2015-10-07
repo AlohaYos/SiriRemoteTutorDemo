@@ -28,3 +28,7 @@ Step 3 : Call function to animate
 Step 4 : Enjoy !
 
 See <a href="https://github.com/AlohaYos/SiriRemoteTutorDemo/blob/master/SiriRemoteTutorDemo/ViewController.swift" target=_blank>ViewController.swift</a> for detail.
+
+#Design parts
+
+If you need illustration data of Siri Remote, <a href="https://github.com/AlohaYos/SiriRemoteDesign" target=_blank>visit here</a> to get them in Photoshop and Illustrator format.
